@@ -2,6 +2,9 @@
 
 `wmctrl-switch-by-application` is a script for cycling through windows of the same application.
 
+## Dependencies
+`wmctrl` is needed for this script to work.
+
 ## Install
 
 Run the command to install:
