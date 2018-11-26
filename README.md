@@ -3,7 +3,7 @@
 `wmctrl-switch-by-application` is a script for cycling through windows of the same application.
 
 ## Dependencies
-`wmctrl` is needed for this script to work.
+`wmctrl` and `xorg-xprop` are needed for this script to work.
 
 ## Install
 
